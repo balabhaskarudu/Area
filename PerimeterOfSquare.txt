@@ -1,0 +1,9 @@
+import java.io.*;
+class PerimeterOfSquare
+{
+public static void main(String args[])
+{
+int s=10;
+System.out.print("Volume of cube",(s+s+s+s));
+}
+}
