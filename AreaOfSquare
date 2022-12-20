@@ -1,0 +1,9 @@
+import java.io.*;
+class AreaOfSquare
+{
+  public static void main(String args[])
+  {
+    int s=10;
+    System.out.println("Area is",(s*s));
+  }
+}
